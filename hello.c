@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-printf("HELLO!!!!\n");
+printf("WELCOME TO TEST FOLDER!!!!\n");
 return 0;
 }
